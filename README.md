@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @xxprimarchx
 - 👀 I’m interested in ... Digital Creations
-- 🌱 I’m currently learning ... C++ & Unity Engine
+- 🌱 I’m currently learning ... C++ & Unity (https://unity.com)
 - 💞️ I’m looking to collaborate on ... N/A
 - 📫 How to reach me ... N/A
-- 😄 Pronouns: ... Him/He
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... N/A
 
 <!---
